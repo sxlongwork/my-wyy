@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+// 用户登录组件
 @Component({
   selector: 'app-member-card',
   templateUrl: './member-card.component.html',

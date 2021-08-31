@@ -39,3 +39,9 @@ export interface Song{
     al: {id: number; name: string; picUrl:string},
     dt: number  // 播放时间
 }
+
+// 歌曲地址
+export interface SongUrl{
+    id: number,
+    url: string
+}

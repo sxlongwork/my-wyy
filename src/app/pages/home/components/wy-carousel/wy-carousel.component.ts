@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, ChangeDetectorRef, Component, EventEmitter, Input, OnInit, Output, TemplateRef, ViewChild } from '@angular/core';
 // import * as EventEmitter from 'events';
-
+// 轮播组件
 @Component({
   selector: 'app-wy-carousel',
   templateUrl: './wy-carousel.component.html',
